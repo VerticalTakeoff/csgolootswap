@@ -1,5 +1,9 @@
 <!DOCTYPE html>
-<head>
-</head>
-  <body>
-  </body>
+  <head>
+    <meta charset="utf-8" />
+    <title>CSGOLootSwap</title>
+    <link rel="stylesheet" href="styles.css">
+  </head>
+    <body>
+    <p> store </p>
+    </body>
