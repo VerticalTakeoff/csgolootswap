@@ -13,11 +13,16 @@
   </head>
 
   <body>
+    <?php
+
+
+
+?>
   <div class="container">
     <div class="nav-wrapper">
       <div class="left-side">
         <div class="nav-link-wrapper">
-          <a href="index.html">Home</a>
+          <a href="index.php">Home</a>
         </div>
 
         <div class="nav-link-wrapper">
