@@ -1,4 +1,8 @@
 <!DOCYPE html>
+<?php
+
+?>
+
 <html>
   <head>
     <!--
