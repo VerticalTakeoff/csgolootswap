@@ -1,4 +1,4 @@
-
+<!DOCYPE html>
 <html>
   <head>
     <!--
