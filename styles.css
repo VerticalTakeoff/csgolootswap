@@ -22,12 +22,6 @@ body {
     text-transform: uppercase;
 }
 
-.nav-link-wrapper {
-    height: 25px;
-    border-bottom: 2px solid transparent;
-    transition: border-bottom 0.2s
-}
-
 .nav-link-wrapper a {
     color: #F8F8FF;
     text-decoration: none;
