@@ -1,4 +1,4 @@
-<!DOCYPE html>
+<!DOCYPE php>
 <?php
 
 ?>
