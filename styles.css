@@ -33,9 +33,6 @@ body {
     text-decoration: none;
     transition: color 0.2s;
 }
-.nav-link-wrapper:hover {
-    border-bottom: 2px solid #E00000;
-}
 
 .nav-link-wrapper a:hover {
     color: #E00000;
