@@ -1,8 +1,16 @@
 <!DOCYPE html>
 
 <?php
+  require 'steamauth/steamauth.php';
 
-
+  if(isset($_SESSION['steamid']))
+  {
+  $id = $_SESSION['steamid'];
+  }
+  else
+  {
+  
+  }
 ?>
 <html>
   <head>
