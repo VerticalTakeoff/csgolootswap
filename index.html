@@ -49,7 +49,11 @@
 
       <div class="right-side">
         <div class="nav-link-wrapper">
+          <?php if(isset($_SESSION['steamid'])) {?>
+          <?php } else {?>
           <a href="sign_in.html"><img src="images/sits_01.png"></a>
+          <?php echo loginbutton(); ?>
+          <?php } ?>
         </div>
       </div>
     </div>
