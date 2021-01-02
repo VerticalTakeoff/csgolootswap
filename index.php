@@ -8,7 +8,7 @@
 
 -->
     <meta charset="utf-8" />
-    <title>CSGOLootSwap2</title>
+    <title>CSGOLootSwap</title>
     <link rel="stylesheet" href="styles.css">
   </head>
 
